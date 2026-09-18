@@ -4,7 +4,7 @@
 >
 > 把你走过的路变成一张可交互的、编辑感十足的旅行地图 —— 纯前端、无后端、数据完全留在你自己手里。
 
-### ▶ [Live demo / 在线演示 →](https://novakepler513.github.io/journey-atlas/)
+### ▶ [Live demo / 在线演示 →](https://yiweicreates.github.io/journey-atlas/)
 
 The demo ships with **two fictional travelers** so you can see the per-traveler filter at work: **Nova Kepler** (Shanghai-based — lots of flights plus a dense domestic high-speed-rail web) and **林叙 / Lin Xu** (flies to Japan & Europe, then rides trains everywhere abroad). Switch the **旅客 (traveler)** filter and the whole map changes shape. All trips are made up — replace `data/travel-log.json` with your own.
 
@@ -98,4 +98,4 @@ This project stands on a lot of generous open-source work and open data. Heartfe
 
 ## License
 
-[MIT](LICENSE) © Nova Kepler. Demo data and the two demo travelers are fictional. Bundled map tiles, geo datasets, and the linked projects above retain their own respective licenses.
+[MIT](LICENSE) © Yiwei. Demo data and the two demo travelers are fictional. Bundled map tiles, geo datasets, and the linked projects above retain their own respective licenses.
