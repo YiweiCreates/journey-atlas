@@ -10,7 +10,7 @@ Top of `app.js`:
 const APP_NAME = "Roamap";        // project name on the loading screen
 const SITE_TITLE = {
   eyebrow: "ROAMAP",         // small line above the title; "" hides it
-  title:   "Nova",           // \n breaks the line (single line here)
+  title:   "Nova\n行旅地图",  // \n breaks the line (two lines here)
   docTitle:"Nova · 行旅地图",  // browser tab
 };
 const OWNER_NAME = "Nova Kepler";  // default traveler; the "self" option in the traveler filter
